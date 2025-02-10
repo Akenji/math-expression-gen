@@ -1,0 +1,11 @@
+body {
+	margin: auto;
+}
+
+.main {
+	max-width: 800px;
+}
+
+.output {
+	overflow-y: auto !important;
+}
